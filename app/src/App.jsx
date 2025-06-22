@@ -65,7 +65,7 @@ return (
       <table style={{ border: "2px solid black", marginTop: "20px" }}>
         <thead>
           <tr>
-            <th>Enteries</th>
+            <th>Entries</th>
       
           </tr>
         </thead>
